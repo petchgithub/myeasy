@@ -9,7 +9,7 @@
             "changeTime": 1538538727452,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1538538727452,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1538551708819,
-            "changeTime": 1538551708819,
-            "contentHash": "d786f897b6a22488143ef1dd6ae377830e1050dc"
+            "modifiedTime": 1538541564575,
+            "changeTime": 1538541564575,
+            "contentHash": "dd490d3c462c3c8b41a169355ab7677bd3c9f3d6"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1538538727453,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1538538854612,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "u",
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -244,14 +244,14 @@
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1538541210065,
+            "changeTime": 1538541210065,
+            "contentHash": "23faa3d906c97d6940a714613c9e91858024c23e",
             "isMetadataFile": true,
-            "size": 464,
-            "modifiedTime": 1538551708689,
-            "changeTime": 1538551708689,
-            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9"
+            "state": "u"
         }
     ],
     [
@@ -599,10 +599,10 @@
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10383,
-            "modifiedTime": 1538551708758,
-            "changeTime": 1538551708758,
-            "contentHash": "c3dd3d92ecc8c352530415f96f933d7da3e77b56"
+            "size": 8938,
+            "modifiedTime": 1538541564595,
+            "changeTime": 1538541564595,
+            "contentHash": "5814242256628230655a1b44edd321e1ce92bf85"
         }
     ],
     [
@@ -612,10 +612,10 @@
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10379,
-            "modifiedTime": 1538551708771,
-            "changeTime": 1538551708771,
-            "contentHash": "b6f2257d45d3ac172121c2443ec32b514550ed68"
+            "size": 8934,
+            "modifiedTime": 1538541564607,
+            "changeTime": 1538541564607,
+            "contentHash": "650777c3a761abc2d74f6d98dd68032484fd460a"
         }
     ],
     [
@@ -625,10 +625,10 @@
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10719,
-            "modifiedTime": 1538551708786,
-            "changeTime": 1538551708786,
-            "contentHash": "861370a2a85f3b86ad3242210c97cd18780670f8"
+            "size": 9274,
+            "modifiedTime": 1538541564621,
+            "changeTime": 1538541564621,
+            "contentHash": "1bbcdd1712409a9da7ce422fdffe5b40e47a943d"
         }
     ],
     [
@@ -638,10 +638,10 @@
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 24782,
-            "modifiedTime": 1538551708810,
-            "changeTime": 1538551708810,
-            "contentHash": "aa13c650b495ae30ba7a77e40486357f98b34b8f"
+            "size": 23339,
+            "modifiedTime": 1538541564645,
+            "changeTime": 1538541564645,
+            "contentHash": "958aeba0cbe4172cdd28e5a54f60ad40c20d74d7"
         }
     ],
     [
@@ -673,14 +673,14 @@
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1538551708700,
-            "changeTime": 1538551708700,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "modifiedTime": 1538541210159,
+            "changeTime": 1538541210159,
+            "contentHash": "f4015d2563d7911e017ed4578526531514ef8c6b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -777,14 +777,14 @@
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1538551708736,
-            "changeTime": 1538551708736,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "modifiedTime": 1538541210206,
+            "changeTime": 1538541210206,
+            "contentHash": "070f30c1a7eef9773d72892fe6f4e1e903d872a8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -803,313 +803,53 @@
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs\\Space__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1538541564578,
             "changeTime": 1538541564578,
-            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5521f0d16ccceb7d2431c493ed952c7e36651fa8"
         }
     ],
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 222,
             "modifiedTime": 1538541564579,
             "changeTime": 1538541564579,
-            "contentHash": "87293cec66ff4aa17d55a221eb0c2b8dc2e8bbb2",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "87293cec66ff4aa17d55a221eb0c2b8dc2e8bbb2"
         }
     ],
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs\\Market__c.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 225,
             "modifiedTime": 1538541564581,
             "changeTime": 1538541564581,
-            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8"
         }
     ],
     [
         "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1538541564580,
             "changeTime": 1538541564580,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\permissionsets",
-        {
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\permissionsets",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1538543822327,
-            "changeTime": 1538543822345,
-            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 8603,
-            "modifiedTime": 1538551708817,
-            "changeTime": 1538551708817,
-            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 189,
-            "modifiedTime": 1538551708711,
-            "changeTime": 1538551708711,
-            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 395,
-            "modifiedTime": 1538551708715,
-            "changeTime": 1538551708715,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 682,
-            "modifiedTime": 1538551708718,
-            "changeTime": 1538551708718,
-            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 678,
-            "modifiedTime": 1538551708721,
-            "changeTime": 1538551708721,
-            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 397,
-            "modifiedTime": 1538551708724,
-            "changeTime": 1538551708724,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 672,
-            "modifiedTime": 1538551708727,
-            "changeTime": 1538551708727,
-            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 549,
-            "modifiedTime": 1538551708730,
-            "changeTime": 1538551708730,
-            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 3198,
-            "modifiedTime": 1538551708736,
-            "changeTime": 1538551708736,
-            "contentHash": "b99613f4416fd69442ab0658d37d160374229b5b"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 174,
-            "modifiedTime": 1538551708738,
-            "changeTime": 1538551708738,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\customerServices.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1715,
-            "modifiedTime": 1538551708740,
-            "changeTime": 1538551708740,
-            "contentHash": "c9d4523cd11c9950c1fbf8c8e1799465b507aa7f"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 174,
-            "modifiedTime": 1538551708743,
-            "changeTime": 1538551708743,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes\\reservationManagerController.cls",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1773,
-            "modifiedTime": 1538551708744,
-            "changeTime": 1538551708744,
-            "contentHash": "2ee6a7535c6e87674f9eec2d56d4af75b6d93480"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 983,
-            "modifiedTime": 1538551708820,
-            "changeTime": 1538551708820,
-            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 1003,
-            "modifiedTime": 1538551708828,
-            "changeTime": 1538551708828,
-            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1538551708711,
-            "changeTime": 1538551708711,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1538551708728,
-            "changeTime": 1538551708728,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\classes",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1538551708743,
-            "changeTime": 1538551708743,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
-        }
-    ],
-    [
-        "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\customMetadata",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\Dell\\dev\\myeasy\\force-app\\main\\default\\customMetadata",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1538551708828,
-            "changeTime": 1538551708828,
-            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
         }
     ]
 ]
