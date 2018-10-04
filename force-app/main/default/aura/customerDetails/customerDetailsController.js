@@ -3,7 +3,7 @@
     {
         var custServ = component.find("customerServiceCmp");
         
-        debugger;
+        //debugger;
         var sobject = component.get("v.sobject");
         custServ.getFields(sobject);
     },
